@@ -244,8 +244,7 @@ project_root/
 ---
 
 ## 주요기능별 코드 정리
-https://www.canva.com/design/DAG5H-lj1Ig/zuhoQLn2njXebD2HoxOC3g/edit?utm_content=DAG5H-lj1Ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+[PDF 다운로드](./편의점 수요 예측 모델 개발 프로젝트.pdf)
 
 ---
 ## 설치 방법

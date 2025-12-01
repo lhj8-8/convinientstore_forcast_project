@@ -244,7 +244,7 @@ project_root/
 ---
 
 ## 주요기능별 코드 정리
-ppt 삽입 예정
+https://www.canva.com/design/DAG5H-lj1Ig/zuhoQLn2njXebD2HoxOC3g/edit?utm_content=DAG5H-lj1Ig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ---

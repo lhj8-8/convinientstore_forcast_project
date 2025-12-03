@@ -249,6 +249,27 @@ project_root/
 ## 주요기능별 코드 정리(PDF 파일)
 [편의점 수요 예측 모델 개발 프로젝트.pdf](https://github.com/user-attachments/files/23845944/default.pdf)
 
+<br>
+
+<img width="1020" height="571" alt="1" src="https://github.com/user-attachments/assets/6e407ab0-90d7-4ce2-8b4f-1b021428718f" />
+<img width="1023" height="566" alt="2" src="https://github.com/user-attachments/assets/862836be-03de-498d-b668-9400fa137a27" />
+<img width="1020" height="578" alt="3" src="https://github.com/user-attachments/assets/519b03b4-7aca-4825-bae2-ff9396d2c7a9" />
+<img width="1018" height="577" alt="4" src="https://github.com/user-attachments/assets/61d93698-96c4-4b3b-ad18-fd813ef82423" />
+<img width="1017" height="577" alt="5" src="https://github.com/user-attachments/assets/fc8a674c-b0e2-477f-b5a2-1680af6f1c79" />
+<img width="1021" height="575" alt="6" src="https://github.com/user-attachments/assets/19991f5f-502f-40db-b60e-bc9e8c769f49" />
+<img width="1021" height="572" alt="7" src="https://github.com/user-attachments/assets/2e3654aa-b080-4059-8b8a-15773ed745b0" />
+<img width="1021" height="561" alt="8" src="https://github.com/user-attachments/assets/df7aa8e8-e4cf-4592-8d55-f49ab43e5dbe" />
+<img width="1022" height="575" alt="9" src="https://github.com/user-attachments/assets/78fe0014-3e22-4f35-bffb-2bd6b29e8236" />
+<img width="1017" height="573" alt="10" src="https://github.com/user-attachments/assets/0bb1080b-cc9c-427e-8f9a-6065dca1171b" />
+<img width="1018" height="575" alt="11" src="https://github.com/user-attachments/assets/7851f832-4eae-4b12-a65e-bfaf1191b882" />
+<img width="1018" height="571" alt="12" src="https://github.com/user-attachments/assets/0e0927a1-a6c3-48a1-a1d0-9b999369a60e" />
+<img width="1018" height="573" alt="13" src="https://github.com/user-attachments/assets/593fc58e-d3f4-4d43-aaf2-4d919060e0ee" />
+<img width="1018" height="560" alt="14" src="https://github.com/user-attachments/assets/4d2a7cb2-6d0d-4505-8bf2-a4ae71954ccf" />
+<img width="1020" height="575" alt="15" src="https://github.com/user-attachments/assets/18396f3b-ec17-45bf-8046-460006ba1c00" />
+<img width="1018" height="575" alt="16" src="https://github.com/user-attachments/assets/7711c743-0d64-4052-98aa-db295ae867ef" />
+<img width="1018" height="573" alt="17" src="https://github.com/user-attachments/assets/bf35ee09-9a46-442c-bcc7-d07609937a1c" />
+
+
 
 ---
 ## 설치 방법

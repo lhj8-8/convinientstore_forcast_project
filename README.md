@@ -14,7 +14,7 @@
 - [폴더 및 파일 구조](#-폴더-및-파일-구조)
 - [사용 기술 스택](#사용-기술-스택)
 - [프로젝트 설계, 구현](#프로젝트-설계-구현)
-- [주요기능 실행 화면](#주요기능-실행-화면)
+- [주요기능별 코드 정리](#주요기능별-코드-정리리)
 - [설치 방법](#설치-방법)
 - [향후 개선 아이디어](#향후-개선-아이디어)
 ---
@@ -51,6 +51,7 @@
 ---
 
 ## 팀원 소개
+>[목차로 돌아가기](#목차)
 <div align="center">
 
 <table>
@@ -110,6 +111,7 @@
 ---
 
 ## 주요 특징
+>[목차로 돌아가기](#목차)
 
 - **여러 CSV를 한 번에 업로드/선택 → 자동 결합**
   - 업로드/선택 시 `source` 열(파일명)을 자동 추가해서 원본을 추적할 수 있습니다.
@@ -140,6 +142,7 @@
 ---
 
 ## 폴더 및 파일 구조
+>[목차로 돌아가기](#목차)
 
 예시 구조는 다음과 같습니다.
 
@@ -162,6 +165,7 @@ project_root/
 ---
 
 ## 사용 기술 스택
+>[목차로 돌아가기](#목차)
 
 - Python 3.10+
 - 데이터 처리: `pandas`, `numpy`
@@ -173,7 +177,8 @@ project_root/
 
 ---
 
-## 프로젝트 설계, 구현 Flowchart
+## 프로젝트 설계, 구현(Flowchart)
+>[목차로 돌아가기](#목차)
 ```bash
 ┌──────────────────────────────────┐
 │      Streamlit 앱 시작            │
@@ -248,6 +253,7 @@ project_root/
 ---
 
 ## 주요기능별 코드 정리(PDF 파일)
+>[목차로 돌아가기](#목차)
 [편의점 수요 예측 모델 개발 프로젝트.pdf](https://github.com/user-attachments/files/23845944/default.pdf)
 
 <br>
@@ -274,6 +280,7 @@ project_root/
 
 ---
 ## 설치 방법
+>[목차로 돌아가기](#목차)
 
 ### 1) 가상환경 생성(선택)
 
@@ -311,9 +318,9 @@ pip install -r requirements.txt
 
 ---
 
-## 실행 방법
+### 실행 방법
 
-### 방법 A. Streamlit 앱으로 실행
+#### 방법 A. Streamlit 앱으로 실행
 
 ```bash
 streamlit run app_streamlit_pro.py
@@ -326,7 +333,7 @@ streamlit run app_streamlit_pro.py
 - 로컬: `http://localhost:8501`
 - Colab/원격: 아래의 **퍼블릭 URL 기능(ngrok/cloudflared)** 사용
 
-### 방법 B. CLI 자동 학습만 따로 실행할 경우 참고
+#### 방법 B. CLI 자동 학습만 따로 실행할 경우 참고
 
 ```bash
 python quick_train_runner.py   --data ./data/sample_sales.csv   --project .   --valid_ratio 0.2   --use_optuna   --optuna_trials 20

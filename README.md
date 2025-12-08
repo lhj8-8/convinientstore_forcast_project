@@ -254,6 +254,7 @@ project_root/
 
 ## 주요기능별 코드 정리(PDF 파일)
 >[목차로 돌아가기](#목차)
+
 [편의점 수요 예측 모델 개발 프로젝트.pdf](https://github.com/user-attachments/files/23845944/default.pdf)
 
 <br>

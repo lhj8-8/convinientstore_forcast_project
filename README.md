@@ -321,7 +321,6 @@ project_root/
   - 군고구마 탭:  
     - 기온 후보: `"온도", "tmin", "temp_min", "min_temp", "최저", "최저기온", "일최저기온", "temperature", "temp"`
 
----
 
 ### Streamlit 앱 구성 (탭별 상세 설명)
 
